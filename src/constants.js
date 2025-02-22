@@ -12,8 +12,3 @@ export const SCREEN_TYPES = {
     HOME: 'list',
     CART: 'cart'
 }
-
-export const COLOR_THEME = {
-    LIGHT: 'light',
-    DARK: 'dark'
-}
