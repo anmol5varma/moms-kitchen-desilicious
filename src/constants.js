@@ -1,8 +1,8 @@
 import PRODUCT_LIST from './input/products.json'
 
-export const CATEGORIES = ["all", "dairy", "vegetables", "snacks", "soft drinks", "oil and ghee", "home essentials"];
+import CATEGORIES from './input/categories.json'
 
-export { PRODUCT_LIST }
+export { PRODUCT_LIST, CATEGORIES }
 
 export const PHONE_NUMBER = "918098469331"
 

@@ -2,7 +2,7 @@ import PropTypes from 'prop-types';
 
 const parseVolume = (volume) => {
     const match = volume.match(/^(\d+)([a-zA-Z]+)$/);
-    if (!match) return { number: null, unit: null };
+    if (!match) return { number: volume, unit: null };
     return { number: parseInt(match[1], 10), unit: match[2] };
 };
 

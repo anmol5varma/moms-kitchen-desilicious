@@ -1,31 +1,31 @@
-"id","photoUrl","title","mrp","volume","category"
-"1","https://shop.amul.com/s/62fa94df8c13af2e242eba16/65ba25a7a55405fa02e1881f/01-hero-image_amul-pure-ghee-tetrapack-1l.png","Amul Pure Ghee","500","1l","oil and ghee"
-"2","https://www.bigbasket.com/media/uploads/p/xxl/40147029_4-mother-dairy-toned-milk.jpg","Mother Dairy Toned Milk","48","1l","dairy"
-"3","https://www.bigbasket.com/media/uploads/p/xl/50000557-2_5-fresho-tomato-hybrid-organically-grown.jpg","Fresho Organic Tomatoes","40","1l","vegetables"
-"4","https://m.media-amazon.com/images/I/71bqdlAVGnL._AC_UF1000,1000_QL80_.jpg","Lay's Classic Salted Chips","20","1l","snacks"
-"5","https://www.bigbasket.com/media/uploads/p/xl/251023_11-coca-cola-soft-drink-original-taste.jpg","Coca-Cola Soft Drink","40","1l","soft drinks"
-"6","https://www.jiomart.com/images/product/original/490001397/britannia-cheese-cubes-200-g-carton-product-images-o490001397-p490001397-0-202306240857.jpg","Britannia Cheese Cubes","120","1l","dairy"
-"7","https://www.bigbasket.com/media/uploads/p/l/40057966_8-fresho-tender-coconut-medium.jpg","Fresho Signature Tender Coconut","35","1l","vegetables"
-"8","https://www.haldirams.com/media/catalog/product/cache/71134970afb779eb7860339989626b7e/b/h/bhujiya_sev_1.jpg","Haldiram's Bhujia Sev","85","1l","snacks"
-"9","https://www.bigbasket.com/media/uploads/p/xl/251006_13-sprite-soft-drink-lime-flavoured.jpg","Sprite Lime Flavored Soft Drink","40","1l","soft drinks"
-"10","https://m.media-amazon.com/images/I/81ILzuTdkbL.jpg","Fortune Sunflower Oil","150","1l","oil and ghee"
-"11","https://m.media-amazon.com/images/I/81SJpjHr-TL.jpg","Kellogg's Corn Flakes","199","1l","snacks"
-"12","https://m.media-amazon.com/images/I/71ZNcuBUV5L.jpg","Tropicana Orange Juice","99","1l","soft drinks"
-"13","https://www.bigbasket.com/media/uploads/p/xxl/1204532-7_3-yakult-probiotic-health-drink.jpg","Yakult Probiotic Drink","60","1l","dairy"
-"14","https://m.media-amazon.com/images/I/617Y9Xm67eL._AC_UF1000,1000_QL80_.jpg","Hershey's Chocolate Syrup","190","1l","snacks"
-"15","https://i.imgur.com/Ep6FrjC.jpg","Bisleri Mineral Water","20","1l","soft drinks"
-"16","https://i.imgur.com/TWiRIzU.jpg","Dabur Honey","350","1l","snacks"
-"17","https://i.imgur.com/NmoPPD3.jpg","MTR Ready Mix Gulab Jamun","105","1l","snacks"
-"18","https://i.imgur.com/yUub4AD.jpg","Patanjali Cow's Ghee","575","1l","oil and ghee"
-"19","https://i.imgur.com/jQDyXpZ.jpg","Kissan Mixed Fruit Jam","130","1l","snacks"
-"20","https://i.imgur.com/vE7P9Ie.jpg","Maggi Masala Noodles","12","1l","snacks"
-"21","https://i.imgur.com/y11NeY5.jpg","Nescafé Classic Coffee","290","1l","snacks"
-"22","https://i.imgur.com/2sGT1sF.jpg","Coca-Cola Zero Sugar","45","1l","soft drinks"
-"23","https://i.imgur.com/sfLsgq3.jpg","Brooke Bond Red Label Tea","330","1l","snacks"
-"24","https://i.imgur.com/efGzupQ.jpg","Britannia NutriChoice Digestive Biscuits","50","1l","snacks"
-"25","https://i.imgur.com/TqQjxxH.jpg","Pedigree Dog Food Chicken & Vegetables","270","1l","snacks"
-"26","https://i.imgur.com/IZbe1m5.jpg","Surf Excel Matic Front Load Detergent Powder","225","1l","home essentials"
-"27","https://i.imgur.com/XKlQc3L.jpg","Colgate MaxFresh Peppermint Ice Toothpaste","95","1l","home essentials"
-"28","https://i.imgur.com/IOySvQS.jpg","Harpic Power Plus Toilet Cleaner","85","1l","home essentials"
-"29","https://i.imgur.com/h7rFbKb.jpg","Lizol Disinfectant Floor Cleaner","362","1l","home essentials"
-"30","https://i.imgur.com/UW0DvnK.jpg","Pampers Baby Dry Pants","699","1l","home essentials"
+id,photoUrl,title,mrp,volume,category
+1,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Pani_Puri1.JPG/800px-Pani_Puri1.JPG,Pani Puri,30,6 pcs,chaat
+2,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM-_SNSKVNNXmk98SYPZNLwC7aoIULSxx5GA&s,Bhel Puri,40,1 plate,chaat
+3,https://www.vegrecipesofindia.com/wp-content/uploads/2021/05/sev-puri-2.jpg,Sev Puri,50,6 pcs,chaat
+4,https://cdn3.foodviva.com/static-content/food-images/snacks-recipes/dahi-puri/dahi-puri.jpg,Dahi Puri,50,6 pcs,chaat
+5,https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2018/Achari_Chole_Tikki_Chaat_Recipe-7.jpg,Aloo Tikki,60,2 pcs,snacks
+6,https://www.ticklingpalates.com/wp-content/uploads/2021/08/Instant-Pot-Pav-Bhaji-Recipe.jpg,Pav Bhaji,80,1 plate,main course
+7,https://ministryofcurry.com/wp-content/uploads/2024/06/vada-pav-15.jpg,Vada Pav,40,1 pc,snacks
+8,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTacHU5VYYiZpMQpAYHAdJp7DHOXBz_YC_yCA&s,Misal Pav,70,1 plate,main course
+9,https://upload.wikimedia.org/wikipedia/commons/d/dc/Rajasthani_Pyaz_ki_Kachori.JPG,Kachori,30,1 pc,snacks
+10,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgvN7RL35IljZUYMVXGR7MNw_U5hKIHlUWZA&s,Samosa,25,1 pc,snacks
+11,https://shwetainthekitchen.com/wp-content/uploads/2023/04/instant-khaman-dhokla-recipe.jpg,Dhokla,50,1 plate,snacks
+12,https://example.com/image12.jpg,Khandvi,60,1 plate,snacks
+13,https://example.com/image13.jpg,Poha,40,1 plate,breakfast
+14,https://example.com/image14.jpg,Jalebi,30,100g,dessert
+15,https://example.com/image15.jpg,Kathi Roll,100,1 roll,wraps
+16,https://example.com/image16.jpg,Momos,90,6 pcs,momos
+17,https://example.com/image17.jpg,Chole Bhature,120,1 plate,main course
+18,https://example.com/image18.jpg,Aloo Paratha,80,1 pc,breakfast
+19,https://example.com/image19.jpg,Paneer Tikka,150,1 skewer,grilled
+20,https://example.com/image20.jpg,Tandoori Chicken,180,1 skewer,grilled
+21,https://example.com/image21.jpg,Chicken Kebab,120,1 skewer,grilled
+22,https://example.com/image22.jpg,Egg Roll,60,1 roll,wraps
+23,https://example.com/image23.jpg,Frankie,90,1 roll,wraps
+24,https://example.com/image24.jpg,Keema Pav,110,1 plate,snacks
+25,https://example.com/image25.jpg,Dabeli,50,1 pc,snacks
+26,https://example.com/image26.jpg,Idli Sambar,90,2 pcs,breakfast
+27,https://example.com/image27.jpg,Masala Dosa,70,1 plate,breakfast
+28,https://example.com/image28.jpg,Medu Vada,40,2 pcs,snacks
+29,https://example.com/image29.jpg,Filter Coffee,25,1 cup,beverages
+30,https://example.com/image30.jpg,Masala Chai,20,1 cup,beverages
