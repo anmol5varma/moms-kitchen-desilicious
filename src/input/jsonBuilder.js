@@ -34,9 +34,6 @@ export const buildJSON = () => {
                     }
                 });
 
-                console.log(categories);
-                
-
                 fs.writeFile(jsonCategoryFilePath, JSON.stringify([...categories], null, 2), (err) => {
                     if (err) {
                         console.error('Error writing categories file', err);
