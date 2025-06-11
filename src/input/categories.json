@@ -1,12 +1,16 @@
 [
   "all",
-  "chaat",
+  "recommended",
+  "combo",
+  "curry",
+  "jain",
+  "rice",
+  "rotis",
+  "beverages",
+  "sides",
   "snacks",
-  "main course",
-  "breakfast",
-  "dessert",
-  "wraps",
-  "momos",
-  "grilled",
-  "beverages"
+  "maggi",
+  "desserts",
+  "sandwiches",
+  "tea"
 ]

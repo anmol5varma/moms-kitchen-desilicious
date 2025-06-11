@@ -11,7 +11,8 @@ const CartItem = ({ item }) => {
             <img src={item.photoUrl} alt={item.title} className="w-12 h-12 mr-1 rounded-lg shadow" />
             <div>
                 <p>{item.title}</p>
-                <ShowVolume volume={item.volume} />
+                {item.description && <p>{item.description}</p>}
+                {item.volume && <ShowVolume volume={item.volume} />}
                 <p className="font-bold">₹{item.mrp}</p>
             </div>
             <AddButton onAdd={() => addToCart(item)} onDelete={() => removeFromCart(item.id)} cart={item} />
@@ -24,10 +25,18 @@ CartItem.propTypes = {
         id: PropTypes.string.isRequired,
         photoUrl: PropTypes.string.isRequired,
         title: PropTypes.string.isRequired,
-        volume: PropTypes.string.isRequired,
+        volume: PropTypes.string,
+        description: PropTypes.string,
         mrp: PropTypes.number.isRequired,
         quantity: PropTypes.number.isRequired,
     }).isRequired,
+};
+
+CartItem.defaultProps = {
+    item: {
+        volume: '',
+        description: '',
+    },
 };
 
 export default CartItem;

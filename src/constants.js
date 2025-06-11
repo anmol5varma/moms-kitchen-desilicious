@@ -4,9 +4,9 @@ import CATEGORIES from './input/categories.json'
 
 export { PRODUCT_LIST, CATEGORIES }
 
-export const PHONE_NUMBER = "918098469331"
+export const PHONE_NUMBER = "919980989291"
 
-export const SHOP_NAME = "Kanpur food street"
+export const SHOP_NAME = "Mom's Kitchen - Desilicious"
 
 export const SCREEN_TYPES = {
     HOME: 'list',

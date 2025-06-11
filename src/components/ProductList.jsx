@@ -25,6 +25,7 @@ const ProductList = ({ category }) => {
                         mrp={product.mrp}
                         category={product.category}
                         volume={product.volume}
+                        description={product.description}
                     />
                 ))}
             </div>

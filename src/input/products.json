@@ -1,242 +1,786 @@
 [
   {
     "id": "1",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Pani_Puri1.JPG/800px-Pani_Puri1.JPG",
-    "title": "Pani Puri",
-    "mrp": 30,
-    "volume": "6 pcs",
-    "category": "chaat"
+    "category": "recommended",
+    "title": "Mix veg daliya",
+    "mrp": 160,
+    "description": "A wholesome and nutritious dish made from a mixture of vegetables, daliya, and spices",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/6b538fad36b48103c86de0c4e1b6f07c"
   },
   {
     "id": "2",
-    "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM-_SNSKVNNXmk98SYPZNLwC7aoIULSxx5GA&s",
-    "title": "Bhel Puri",
-    "mrp": 40,
-    "volume": "1 plate",
-    "category": "chaat"
+    "category": "recommended",
+    "title": "Veg Fried Rice",
+    "mrp": 160,
+    "description": "Our Veg Fried Rice is a vibrant mix of fresh vegetables and fragrant rice, stir-fried to perfection",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/cgjqvbt6sxfl18dbekrx"
   },
   {
     "id": "3",
-    "photoUrl": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/05/sev-puri-2.jpg",
-    "title": "Sev Puri",
-    "mrp": 50,
-    "volume": "6 pcs",
-    "category": "chaat"
+    "category": "recommended",
+    "title": "Curd",
+    "mrp": 20,
+    "description": "Plain curd Swipe right to add item to cart",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/51e1b6199494089bb8be828721ad4807"
   },
   {
     "id": "4",
-    "photoUrl": "https://cdn3.foodviva.com/static-content/food-images/snacks-recipes/dahi-puri/dahi-puri.jpg",
-    "title": "Dahi Puri",
-    "mrp": 50,
-    "volume": "6 pcs",
-    "category": "chaat"
+    "category": "recommended",
+    "title": "Aloo Paratha Meal",
+    "mrp": 150,
+    "description": "2 Aloo Parathas + Green Chutney + Pickle + Butter + Curd This item is customizable",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/049e746102c82028494e821e0bce3db8"
   },
   {
     "id": "5",
-    "photoUrl": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2018/Achari_Chole_Tikki_Chaat_Recipe-7.jpg",
-    "title": "Aloo Tikki",
-    "mrp": 60,
-    "volume": "2 pcs",
-    "category": "snacks"
+    "category": "recommended",
+    "title": "1 Paneer Paratha",
+    "mrp": 85,
+    "description": "Flaky, golden-brown flatbread stuffed with creamy, spiced paneer goodness! This item is customizable",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/4/11/3bc27ec2-f452-43b9-880b-e6c5d9b11f91_2d9b1754-8264-4eb8-9351-434d92d74907.jpeg"
   },
   {
     "id": "6",
-    "photoUrl": "https://www.ticklingpalates.com/wp-content/uploads/2021/08/Instant-Pot-Pav-Bhaji-Recipe.jpg",
-    "title": "Pav Bhaji",
-    "mrp": 80,
-    "volume": "1 plate",
-    "category": "main course"
+    "category": "recommended",
+    "title": "1 Aloo Paratha",
+    "mrp": 75,
+    "description": "Crispy on the outside, soft and flavorful on the inside, with a perfect potato filling! This item is customizable",
+    "photoUrl": ""
   },
   {
     "id": "7",
-    "photoUrl": "https://ministryofcurry.com/wp-content/uploads/2024/06/vada-pav-15.jpg",
-    "title": "Vada Pav",
-    "mrp": 40,
-    "volume": "1 pc",
-    "category": "snacks"
+    "category": "combo",
+    "title": "3 Parathas with Matar Paneer",
+    "mrp": 180,
+    "description": "Three soft parathas served with a rich and flavorful paneer curry, complemented by fresh green peas – the perfect dish for a hearty meal",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/5cdec4d2bb143b43d72887bd4897561e"
   },
   {
     "id": "8",
-    "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTacHU5VYYiZpMQpAYHAdJp7DHOXBz_YC_yCA&s",
-    "title": "Misal Pav",
-    "mrp": 70,
-    "volume": "1 plate",
-    "category": "main course"
+    "category": "combo",
+    "title": "3 Ghee Phulkas with Lauki Kofta",
+    "mrp": 220,
+    "description": "Delight in the flavorful combination of soft lauki kofta served with 3 perfectly cooked ghee phulkas, served alongside fresh onion for the perfect meal",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/3/7/882550e0-2be5-4886-9122-683bdeaf7df4_5b5d0925-41cf-4f66-a41e-bfd0e912e113.jpg"
   },
   {
     "id": "9",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Rajasthani_Pyaz_ki_Kachori.JPG",
-    "title": "Kachori",
-    "mrp": 30,
-    "volume": "1 pc",
-    "category": "snacks"
+    "category": "combo",
+    "title": "3 Parathas with Dal and Aloo Bhindi (Dry)",
+    "mrp": 160,
+    "description": "A comforting combination of soft paratha served with flavorful dal and spicy aloo bhindi dry",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/3/16/b7651cf6-bfbb-43b4-8731-c7ad1c74b6db_70d73ca5-bfd2-417b-886a-19bfcfdacd39.jpg"
   },
   {
     "id": "10",
-    "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgvN7RL35IljZUYMVXGR7MNw_U5hKIHlUWZA&s",
-    "title": "Samosa",
-    "mrp": 25,
-    "volume": "1 pc",
-    "category": "snacks"
+    "category": "combo",
+    "title": "4 Poori With Aloo Sabzi",
+    "mrp": 140,
+    "description": "4 light and airy puris served with flavorful aloo ki sabji, perfectly portioned for one person",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/16d5813eb7138b3ab1deb6ece039f77b"
   },
   {
     "id": "11",
-    "photoUrl": "https://shwetainthekitchen.com/wp-content/uploads/2023/04/instant-khaman-dhokla-recipe.jpg",
-    "title": "Dhokla",
-    "mrp": 50,
-    "volume": "1 plate",
-    "category": "snacks"
+    "category": "combo",
+    "title": "Aloo Paratha Meal",
+    "mrp": 150,
+    "description": "2 Aloo Parathas + Green Chutney + Pickle + Butter + Curd This item is customizable",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/049e746102c82028494e821e0bce3db8"
   },
   {
     "id": "12",
-    "photoUrl": "https://example.com/image12.jpg",
-    "title": "Khandvi",
-    "mrp": 60,
-    "volume": "1 plate",
-    "category": "snacks"
+    "category": "combo",
+    "title": "Paneer Paratha Meal",
+    "mrp": 170,
+    "description": "2 Paneer Parathas + Curd + Green Chutney + Pickle + Butter This item is customizable",
+    "photoUrl": ""
   },
   {
     "id": "13",
-    "photoUrl": "https://example.com/image13.jpg",
-    "title": "Poha",
-    "mrp": 40,
-    "volume": "1 plate",
-    "category": "breakfast"
+    "category": "combo",
+    "title": "2 Lachha Parathas with Creamy Paneer Makhni",
+    "mrp": 220,
+    "description": "Two flaky Lachha Parathas paired with creamy Paneer Makhni, served alongside fresh onion for the perfect meal",
+    "photoUrl": ""
   },
   {
     "id": "14",
-    "photoUrl": "https://example.com/image14.jpg",
-    "title": "Jalebi",
-    "mrp": 30,
-    "volume": "100g",
-    "category": "dessert"
+    "category": "combo",
+    "title": "Veg Fried Rice with Paneer Chilli",
+    "mrp": 220,
+    "description": "A delightful combination of flavorful veg fried rice and succulent paneer, creating a delectable fusion of textures and tastes",
+    "photoUrl": ""
   },
   {
     "id": "15",
-    "photoUrl": "https://example.com/image15.jpg",
-    "title": "Kathi Roll",
-    "mrp": 100,
-    "volume": "1 roll",
-    "category": "wraps"
+    "category": "combo",
+    "title": "2 Ghee Phulka Paneer Bhurji",
+    "mrp": 210,
+    "description": "Delicious combination of soft phulkas with flavorful paneer bhurji cooked in rich ghee",
+    "photoUrl": ""
   },
   {
     "id": "16",
-    "photoUrl": "https://example.com/image16.jpg",
-    "title": "Momos",
-    "mrp": 90,
-    "volume": "6 pcs",
-    "category": "momos"
+    "category": "combo",
+    "title": "Veg Thali Meal",
+    "mrp": 160,
+    "description": "2 Chapatis + 1 portion Rice + Dal + Dry Sabzi [Seasonal] This item is customizable",
+    "photoUrl": ""
   },
   {
     "id": "17",
-    "photoUrl": "https://example.com/image17.jpg",
-    "title": "Chole Bhature",
-    "mrp": 120,
-    "volume": "1 plate",
-    "category": "main course"
+    "category": "combo",
+    "title": "Rice with Kadhi Pakode, Papad, Salad",
+    "mrp": 160,
+    "description": "A classic combination of steamed rice and pakodi wali kadhi, this dish is perfect for a hearty meal",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/a450f48ec1103985e303190e93fc194f"
   },
   {
     "id": "18",
-    "photoUrl": "https://example.com/image18.jpg",
-    "title": "Aloo Paratha",
-    "mrp": 80,
-    "volume": "1 pc",
-    "category": "breakfast"
+    "category": "combo",
+    "title": "Bajra Methi Paratha Meal",
+    "mrp": 140,
+    "description": "2 Bajra Methi Parathas + Curd + Rajasthani Lehsuni Chutney + Jaggery This item is customizable",
+    "photoUrl": ""
   },
   {
     "id": "19",
-    "photoUrl": "https://example.com/image19.jpg",
-    "title": "Paneer Tikka",
-    "mrp": 150,
-    "volume": "1 skewer",
-    "category": "grilled"
+    "category": "combo",
+    "title": "3 Paratha With Dal And Aloo Jeera Dry",
+    "mrp": 160,
+    "description": "Delicious combo of flaky parathas served with flavorful dal and aromatic jeera-infused potatoes",
+    "photoUrl": ""
   },
   {
     "id": "20",
-    "photoUrl": "https://example.com/image20.jpg",
-    "title": "Tandoori Chicken",
-    "mrp": 180,
-    "volume": "1 skewer",
-    "category": "grilled"
+    "category": "combo",
+    "title": "3 Paratha With Dal And Aloo Matar Dry",
+    "mrp": 160,
+    "description": "Savor the flavorful combination of 3 parathas with creamy dal and hearty aloo matar dry",
+    "photoUrl": ""
   },
   {
     "id": "21",
-    "photoUrl": "https://example.com/image21.jpg",
-    "title": "Chicken Kebab",
-    "mrp": 120,
-    "volume": "1 skewer",
-    "category": "grilled"
+    "category": "combo",
+    "title": "3 Parathas with Aloo Pyaz Bhaja and Boondi Raita",
+    "mrp": 140,
+    "description": "A delicious pairing of warm paratha wit aloo pyaz bhaja, perfect for a satisfying meal",
+    "photoUrl": ""
   },
   {
     "id": "22",
-    "photoUrl": "https://example.com/image22.jpg",
-    "title": "Egg Roll",
-    "mrp": 60,
-    "volume": "1 roll",
-    "category": "wraps"
+    "category": "combo",
+    "title": "Ghee Rice with Yello Dal Tadka",
+    "mrp": 150,
+    "description": "A delectable combination of aromatic ghee rice and flavorful yellow dal tadka",
+    "photoUrl": ""
   },
   {
     "id": "23",
-    "photoUrl": "https://example.com/image23.jpg",
-    "title": "Frankie",
-    "mrp": 90,
-    "volume": "1 roll",
-    "category": "wraps"
+    "category": "combo",
+    "title": "3 Luchis with Spicy Aloo Dum",
+    "mrp": 150,
+    "description": "Soft luchis served with a spicy and flavorful aloo dum, creating a perfect balance of taste",
+    "photoUrl": ""
   },
   {
     "id": "24",
-    "photoUrl": "https://example.com/image24.jpg",
-    "title": "Keema Pav",
-    "mrp": 110,
-    "volume": "1 plate",
-    "category": "snacks"
+    "category": "curry",
+    "title": "Matar paneer",
+    "mrp": 220,
+    "description": "A delightful mix of green peas and paneer in a onion tomato gravy, garnished with fresh herbs",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/d934a1945d727ec2e72ac5fa71af2978"
   },
   {
     "id": "25",
-    "photoUrl": "https://example.com/image25.jpg",
-    "title": "Dabeli",
-    "mrp": 50,
-    "volume": "1 pc",
-    "category": "snacks"
+    "category": "curry",
+    "title": "Gatte ki sabzi (curd gravy)",
+    "mrp": 180,
+    "description": "A flavorful dish of gram flour [besan] dumplings cooked in a spicy and aromatic sauce made with fresh tomato, curd and spices",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/39bf330ec1463ab903996a20d4a66aac"
   },
   {
     "id": "26",
-    "photoUrl": "https://example.com/image26.jpg",
-    "title": "Idli Sambar",
-    "mrp": 90,
-    "volume": "2 pcs",
-    "category": "breakfast"
+    "category": "curry",
+    "title": "Aloo Jeera Dry",
+    "mrp": 150,
+    "description": "A simple yet flavorful dish of crispy potatoes sautéed with cumin and spices",
+    "photoUrl": ""
   },
   {
     "id": "27",
-    "photoUrl": "https://example.com/image27.jpg",
-    "title": "Masala Dosa",
-    "mrp": 70,
-    "volume": "1 plate",
-    "category": "breakfast"
+    "category": "curry",
+    "title": "Aloo Dum",
+    "mrp": 170,
+    "description": "A rich and flavorful dish featuring tender potatoes in a spiced, aromatic gravy",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/3/19/5d061519-8897-4b62-a1d0-5a21f3a511e5_1c27047f-da91-4392-815e-220996bbc21d.jpg"
   },
   {
     "id": "28",
-    "photoUrl": "https://example.com/image28.jpg",
-    "title": "Medu Vada",
-    "mrp": 40,
-    "volume": "2 pcs",
-    "category": "snacks"
+    "category": "curry",
+    "title": "Kadhai Paneer",
+    "mrp": 260,
+    "description": "Succulent paneer cooked in a onion and tomato based gravy with a in house special kadhai masala",
+    "photoUrl": ""
   },
   {
     "id": "29",
-    "photoUrl": "https://example.com/image29.jpg",
-    "title": "Filter Coffee",
-    "mrp": 25,
-    "volume": "1 cup",
-    "category": "beverages"
+    "category": "curry",
+    "title": "Paneer Makhani",
+    "mrp": 250,
+    "description": "A creamy and indulgent curry with tender paneer cubes in a rich tomato-based gravy",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/3/19/c2989bc2-0e70-452f-9f8a-0326d3358d38_c7c6988c-f209-48da-bc2b-8f5af621d0ff.jpg"
   },
   {
     "id": "30",
-    "photoUrl": "https://example.com/image30.jpg",
-    "title": "Masala Chai",
+    "category": "curry",
+    "title": "Bhurji Paneer",
+    "mrp": 250,
+    "description": "[250ml] A flavorful and creamy Indian curry featuring soft and crumbled paneer cooked with aromatic spices",
+    "photoUrl": ""
+  },
+  {
+    "id": "31",
+    "category": "curry",
+    "title": "Lauki Kofta",
+    "mrp": 220,
+    "description": "Soft and flavorful bottle gourd dumplings in a rich, aromatic curry",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/3/18/b30fe67c-4c7c-47d5-a3eb-490450fba966_2004e3c7-b106-4ad5-8113-44b95bce7a00.jpg"
+  },
+  {
+    "id": "32",
+    "category": "curry",
+    "title": "Sev Tamatar",
+    "mrp": 200,
+    "description": "A tangy and flavorful dish with a delicious tomato base, topped with crispy sev for the perfect crunch",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7a4aa4f259ceb160a9520c3e13c55b4c"
+  },
+  {
+    "id": "33",
+    "category": "curry",
+    "title": "Baingan bharta",
+    "mrp": 180,
+    "description": "A delicious and aromatic dish of eggplant burnt on gas and mixed with onion, tomato and garlic, perfect for a hearty meal",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/0f865225573fc200d2d72209f385eee0"
+  },
+  {
+    "id": "34",
+    "category": "curry",
+    "title": "Aloo tamatar",
+    "mrp": 160,
+    "description": "Mashed potatoes cooked in a tangy and spicy tomato gravy",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/40a84ae5be80722f6671932a0b34ffa2"
+  },
+  {
+    "id": "35",
+    "category": "curry",
+    "title": "Aloo Matar Dry",
+    "mrp": 150,
+    "description": "A simple and flavorful stir fry of potatoes and peas, seasoned with aromatic spices",
+    "photoUrl": ""
+  },
+  {
+    "id": "36",
+    "category": "curry",
+    "title": "Bharwan Bhindi",
+    "mrp": 140,
+    "description": "[11-12 pieces] of in house made masala stuffed bhindi cooked in mustard oil",
+    "photoUrl": ""
+  },
+  {
+    "id": "37",
+    "category": "curry",
+    "title": "Baingan Tawa Fry",
+    "mrp": 140,
+    "description": "Spiced and pan fried eggplant slices (6 thick slices) with a crispy, golden crust and smoky flavor",
+    "photoUrl": ""
+  },
+  {
+    "id": "38",
+    "category": "curry",
+    "title": "Aloo Capsicum Masala",
+    "mrp": 180,
+    "description": "Succulent potatoes and vibrant bell peppers cooked in a subtle dry masalas",
+    "photoUrl": ""
+  },
+  {
+    "id": "39",
+    "category": "jain",
+    "title": "Jain Matar Paneer",
+    "mrp": 200,
+    "description": "A flavorful and aromatic curry made with paneer and green peas, prepared without onion and garlic for a pure Jain recipe",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/3/18/aa3ca9c6-6863-4bee-8111-4267e576cd61_f032ce9d-d188-49e1-8371-281be7649a2c.jpg"
+  },
+  {
+    "id": "40",
+    "category": "jain",
+    "title": "Jain Gatte Ki Sabzi",
+    "mrp": 160,
+    "description": "[Jain Preperation] A rich and spicy curry made with gram flour dumplings, prepared without onion and garlic for a traditional Jain dish",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/3/19/0cf4ce28-6608-4a44-806e-9a11743eba9c_565189c2-dec9-4cc3-a9fa-31771d7a9980.jpg"
+  },
+  {
+    "id": "41",
+    "category": "jain",
+    "title": "Jain Aloo Jeera Dry",
+    "mrp": 130,
+    "description": "A simple and flavorful dish of sautéed potatoes with cumin and aromatic spices, prepared without onion and garlic for a Jain-friendly option",
+    "photoUrl": ""
+  },
+  {
+    "id": "42",
+    "category": "jain",
+    "title": "Jain Aloo Tamatar",
+    "mrp": 140,
+    "description": "A flavorful and aromatic Jain delicacy featuring tender potatoes and tangy tomatoes",
+    "photoUrl": ""
+  },
+  {
+    "id": "43",
+    "category": "jain",
+    "title": "Jain Sev Ki Sabzi",
+    "mrp": 160,
+    "description": "A delicious and tangy curry made with crispy sev and a blend of spices, prepared without onion and garlic for a Jain-friendly dish",
+    "photoUrl": ""
+  },
+  {
+    "id": "44",
+    "category": "jain",
+    "title": "Jain Dal Fry",
+    "mrp": 140,
+    "description": "A wholesome and flavorful lentil dish, cooked with aromatic spices and prepared without onion and garlic for a traditional Jain recipe",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/3/18/267a6cd1-bdf9-4203-adea-fce9b8551811_cdeeda47-314e-44cf-a3a9-93b8f7377ef1.jpg"
+  },
+  {
+    "id": "45",
+    "category": "jain",
+    "title": "Jain Mixed Veg Daliya",
+    "mrp": 160,
+    "description": "A wholesome and nutritious dish made from a mixture of vegetables, daliya and spices",
+    "photoUrl": ""
+  },
+  {
+    "id": "46",
+    "category": "jain",
+    "title": "Jain Kadhi Pakoda",
+    "mrp": 140,
+    "description": "[jain preparation] A creamy and tangy yogurt-based curry with gram flour dumplings, prepared without onion and garlic for a pure Jain delicacy",
+    "photoUrl": ""
+  },
+  {
+    "id": "47",
+    "category": "jain",
+    "title": "Jain Bharwan Bhindi",
+    "mrp": 100,
+    "description": "A delectable Jain dish with perfectly stuffed okra that will tantalize your taste buds",
+    "photoUrl": ""
+  },
+  {
+    "id": "48",
+    "category": "rice",
+    "title": "Tehri",
+    "mrp": 150,
+    "description": "Our Tehri is a flavorful and vibrant rice dish, cooked with mixed vegetables and aromatic spices for a satisfying meal",
+    "photoUrl": ""
+  },
+  {
+    "id": "49",
+    "category": "rice",
+    "title": "Mix veg daliya",
+    "mrp": 160,
+    "description": "A wholesome and nutritious dish made from a mixture of vegetables, daliya, and spices",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/6b538fad36b48103c86de0c4e1b6f07c"
+  },
+  {
+    "id": "50",
+    "category": "rice",
+    "title": "Veg Fried Rice",
+    "mrp": 160,
+    "description": "Our Veg Fried Rice is a vibrant mix of fresh vegetables and fragrant rice, stir-fried to perfection",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/cgjqvbt6sxfl18dbekrx"
+  },
+  {
+    "id": "51",
+    "category": "rice",
+    "title": "Ghee Rice",
+    "mrp": 160,
+    "description": "Rich and aromatic, our Ghee Rice is a comforting dish infused with the goodness of ghee and delicate spices",
+    "photoUrl": ""
+  },
+  {
+    "id": "52",
+    "category": "rice",
+    "title": "Green peas pulao",
+    "mrp": 160,
+    "description": "A fragrant and flavorful dish, our Green Pea Pulao combines tender rice with the freshness of green peas and aromatic spices",
+    "photoUrl": ""
+  },
+  {
+    "id": "53",
+    "category": "rice",
+    "title": "Jeera rice",
+    "mrp": 130,
+    "description": "A fragrant and flavorful rice dish made with ghee and jeera [cumin] and garnished with mint leaf to add a subtle flavor to the dish",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7b814a8274cfdccef4e319b9bf3e3a72"
+  },
+  {
+    "id": "54",
+    "category": "rice",
+    "title": "Lemon rice with fried papadam",
+    "mrp": 130,
+    "description": "Our lemon rice is a fragrant, flavorful dish with a tangy twist, perfectly blending spices and aromatic lemon zest",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/89fff643e2809f4447440c79f196c029"
+  },
+  {
+    "id": "55",
+    "category": "rice",
+    "title": "Bajra khichdi",
+    "mrp": 150,
+    "description": "A wholesome and hearty dish, our Bajra Khichdi is a perfect blend of nutritious grains",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/60f2f9048cd6436ae46eaf94c13bf7d1"
+  },
+  {
+    "id": "56",
+    "category": "rice",
+    "title": "Steamed rice",
+    "mrp": 70,
+    "description": "Simple and comforting, our steamed rice is the perfect accompaniment to any dish",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/8ec28d73e3a596a19ecbaaffb7a860c7"
+  },
+  {
+    "id": "57",
+    "category": "rotis",
+    "title": "1 Ghee Phulka",
     "mrp": 20,
-    "volume": "1 cup",
-    "category": "beverages"
+    "description": "Crisp and light phulka that is perfect for a wholesome meal",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/a8d43fd1dead71c34eaef218139d2c89"
+  },
+  {
+    "id": "58",
+    "category": "rotis",
+    "title": "Chapati",
+    "mrp": 20,
+    "description": "A soft and thin unleavened flatbread, perfect for pairing with curries and dals",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/f2152ea0dce6c059c12717aec1880382"
+  },
+  {
+    "id": "59",
+    "category": "rotis",
+    "title": "1 Paneer Paratha",
+    "mrp": 85,
+    "description": "Flaky, golden-brown flatbread stuffed with creamy, spiced paneer goodness! This item is customizable",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/4/11/3bc27ec2-f452-43b9-880b-e6c5d9b11f91_2d9b1754-8264-4eb8-9351-434d92d74907.jpeg"
+  },
+  {
+    "id": "60",
+    "category": "rotis",
+    "title": "1 Aloo Paratha",
+    "mrp": 75,
+    "description": "Crispy on the outside, soft and flavorful on the inside, with a perfect potato filling! This item is customizable",
+    "photoUrl": ""
+  },
+  {
+    "id": "61",
+    "category": "rotis",
+    "title": "Puri (2 Pcs)",
+    "mrp": 30,
+    "description": "Crisp and golden delectable deep fried puris are a delightful addition to any meal",
+    "photoUrl": ""
+  },
+  {
+    "id": "62",
+    "category": "rotis",
+    "title": "1 Paratha",
+    "mrp": 20,
+    "description": "A soft and wholesome flatbread made with whole wheat flour, perfect for any meal",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/df0aecaabfe90cfd0397f8cecf21bbef"
+  },
+  {
+    "id": "63",
+    "category": "rotis",
+    "title": "1 Lachha Paratha",
+    "mrp": 30,
+    "description": "A flaky and layered flatbread made with whole wheat flour, offering a perfect balance of texture and taste",
+    "photoUrl": ""
+  },
+  {
+    "id": "64",
+    "category": "beverages",
+    "title": "Mithi Lassi",
+    "mrp": 80,
+    "description": "Sweet lassi flavoured with rose essence",
+    "photoUrl": ""
+  },
+  {
+    "id": "65",
+    "category": "beverages",
+    "title": "Mint Lime Mojito",
+    "mrp": 90,
+    "description": "A refreshing and zesty beverage bursting with the flavors of tangy lime and refreshing mint",
+    "photoUrl": ""
+  },
+  {
+    "id": "66",
+    "category": "beverages",
+    "title": "Blue Lemonade",
+    "mrp": 90,
+    "description": "A refreshing and vibrant citrus-infused beverage that is perfect for quenching your thirst on a hot day",
+    "photoUrl": ""
+  },
+  {
+    "id": "67",
+    "category": "beverages",
+    "title": "Angoori Shikanji",
+    "mrp": 80,
+    "description": "A refreshing and fruity Indian drink made with grapes and flavored with spices",
+    "photoUrl": ""
+  },
+  {
+    "id": "68",
+    "category": "beverages",
+    "title": "Anar Shikanji",
+    "mrp": 80,
+    "description": "A refreshing and tangy Indian drink bursting with the flavors of pomegranate and lemon",
+    "photoUrl": ""
+  },
+  {
+    "id": "69",
+    "category": "beverages",
+    "title": "Watermelon Mojito",
+    "mrp": 80,
+    "description": "A refreshing and fruity beverage perfect for a hot summer day, bursting with the flavors of watermelon and mint",
+    "photoUrl": ""
+  },
+  {
+    "id": "70",
+    "category": "beverages",
+    "title": "Buttermilk",
+    "mrp": 50,
+    "description": "A light and tangy Buttermilk that will make your taste buds dance with joy! Swipe right to add item to cart",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/193939639deddea413280a3708637e3f"
+  },
+  {
+    "id": "71",
+    "category": "beverages",
+    "title": "Lime Water",
+    "mrp": 50,
+    "description": "Fresh sweet and salty lime water served with ice Swipe right to add item to cart",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/3/13/28e19fc4-4256-4294-807e-0ff8aa9a245f_d6893327-ec8d-4538-a36c-ba059ce47d1a.jpg"
+  },
+  {
+    "id": "72",
+    "category": "beverages",
+    "title": "Rooh Afza Sarbat",
+    "mrp": 50,
+    "description": "Ruhafza added in lime water and served with ice Swipe right to add item to cart",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/3/13/ee0d6ef7-7a9c-42d3-8d39-7023aff97d6d_dd1c5f5b-9038-4a9f-b9dc-a94712fe51b8.jpg"
+  },
+  {
+    "id": "73",
+    "category": "sides",
+    "title": "Aloo pakode [8 pieces]",
+    "mrp": 120,
+    "description": "",
+    "photoUrl": ""
+  },
+  {
+    "id": "74",
+    "category": "sides",
+    "title": "Boondi Raita",
+    "mrp": 60,
+    "description": "Boondi raita, a delightful blend of crispy boondi and creamy yogurt, adding a perfect crunch to your meal",
+    "photoUrl": ""
+  },
+  {
+    "id": "75",
+    "category": "sides",
+    "title": "Beetroot Raita",
+    "mrp": 70,
+    "description": "A refreshing beetroot raita, combining creamy yogurt with the earthy sweetness of beetroot, topped with a flavorful tadka of peanut and curry leaf",
+    "photoUrl": ""
+  },
+  {
+    "id": "76",
+    "category": "sides",
+    "title": "Aloo Raita",
+    "mrp": 70,
+    "description": "Aloo raita, perfectly balanced with potatoes, onion, and yogurt, topped with a flavorful tadka of curry leaf and peanut to complement any dish",
+    "photoUrl": ""
+  },
+  {
+    "id": "77",
+    "category": "sides",
+    "title": "Grated Cucumber Raita",
+    "mrp": 50,
+    "description": "Cool and creamy cucumber raita, a refreshing side that perfectly complements any dish",
+    "photoUrl": ""
+  },
+  {
+    "id": "78",
+    "category": "sides",
+    "title": "Laccha Onion",
+    "mrp": 40,
+    "description": "Crisp and tangy laccha onion, the perfect accompaniment to enhance any meal",
+    "photoUrl": ""
+  },
+  {
+    "id": "79",
+    "category": "sides",
+    "title": "Curd",
+    "mrp": 20,
+    "description": "Plain curd Swipe right to add item to cart",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/51e1b6199494089bb8be828721ad4807"
+  },
+  {
+    "id": "80",
+    "category": "sides",
+    "title": "Burani Raita",
+    "mrp": 50,
+    "description": "Rich and creamy Burani raita, with a delightful garlic flavor to complement your meal",
+    "photoUrl": ""
+  },
+  {
+    "id": "81",
+    "category": "sides",
+    "title": "Roasted Papad",
+    "mrp": 20,
+    "description": "Crisp and golden roasted papad, a perfect crunchy accompaniment to any meal",
+    "photoUrl": ""
+  },
+  {
+    "id": "82",
+    "category": "sides",
+    "title": "Mix Veg Raita",
+    "mrp": 60,
+    "description": "[Veg preparation] A cool and creamy yogurt dish loaded with fresh mixed vegetables and seasoned with aromatic spices",
+    "photoUrl": ""
+  },
+  {
+    "id": "83",
+    "category": "snacks",
+    "title": "Paneer Chilli",
+    "mrp": 210,
+    "description": "",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/3/19/ae16140d-bee1-4cea-934e-a7d0014174a3_4dae98ab-4d63-4ece-a15c-0bf9f208874f.jpg"
+  },
+  {
+    "id": "84",
+    "category": "snacks",
+    "title": "Paneer Kathi Roll",
+    "mrp": 140,
+    "description": "A deliciously spiced paneer filling wrapped in a soft, warm wheat paratha for a perfect on-the-go meal",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/1743c74e0ac57c2837d9caf5b3e11a57"
+  },
+  {
+    "id": "85",
+    "category": "snacks",
+    "title": "Onion Pakoda",
+    "mrp": 100,
+    "description": "Crispy fritters bursting with flavor and golden-brown perfection, ideal for any snack craving",
+    "photoUrl": ""
+  },
+  {
+    "id": "86",
+    "category": "maggi",
+    "title": "Chilli Cheese Garlic Maggi",
+    "mrp": 100,
+    "description": "A flavorful and indulgent twist on the classic Maggi, featuring a rich cheese and garlic combination that will leave you craving for more",
+    "photoUrl": ""
+  },
+  {
+    "id": "87",
+    "category": "maggi",
+    "title": "Veg Fried Maggi",
+    "mrp": 80,
+    "description": "A tasty and vibrant stir-fry of Maggi noodles with a mix of fresh vegetables and spices",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/f7a264743c31d9482ab15a212f173ed0"
+  },
+  {
+    "id": "88",
+    "category": "maggi",
+    "title": "Cheese maggi",
+    "mrp": 80,
+    "description": "A delicious combination of maggi noodles and cheese",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/8f1101799e7b71bbdafd8ba49b399b50"
+  },
+  {
+    "id": "89",
+    "category": "maggi",
+    "title": "Chilli Lemon Maggi",
+    "mrp": 80,
+    "description": "A zesty and tangy twist to the classic Maggi, bursting with flavors that are sure to tantalize your taste buds",
+    "photoUrl": ""
+  },
+  {
+    "id": "90",
+    "category": "maggi",
+    "title": "Plain Maggi",
+    "mrp": 60,
+    "description": "A classic, simple, and delicious dish made with plain maggi noodles",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/b62abadf5f39cff3a90c71f24af01e4a"
+  },
+  {
+    "id": "91",
+    "category": "desserts",
+    "title": "Atta halwa",
+    "mrp": 140,
+    "description": "A traditional Indian sweet made with wheat flour and ghee",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/848e204684d2cacf337962e6b830081a"
+  },
+  {
+    "id": "92",
+    "category": "desserts",
+    "title": "Churma",
+    "mrp": 130,
+    "description": "Churned tawa paratha drizzled wIth ghee and mixed with icing sugar, topped with dry fruits",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/8c6fded5a2e193eca0a394cf9f05ed39"
+  },
+  {
+    "id": "93",
+    "category": "desserts",
+    "title": "Semiya kheer",
+    "mrp": 120,
+    "description": "A delectable dessert made with vermicelli and milk",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/f6282e50e4169e14c0026e0f4a0e5f38"
+  },
+  {
+    "id": "94",
+    "category": "sandwiches",
+    "title": "Bombay Masala Sandwich",
+    "mrp": 120,
+    "description": "Bombay masala sandwich is a classic combination of bread slices stuffed with a spicy mashed potato mix, bhujia, and green chutney topped with grated cheese",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/b9d183ffac6fdf1e00062c0e4aed56fa"
+  },
+  {
+    "id": "95",
+    "category": "sandwiches",
+    "title": "Chilli Cheese Toast",
+    "mrp": 120,
+    "description": "A deliciously crispy toast topped with a spicy mix of cheese and chili for the perfect flavor kick",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/3/18/eb0e77fc-984b-4d0c-a012-35d1d71c0a69_4decf027-2902-446f-b9e1-464f71493ea3.jpg"
+  },
+  {
+    "id": "96",
+    "category": "sandwiches",
+    "title": "Dahi Wala Sandwich",
+    "mrp": 110,
+    "description": "An indulgent sandwich with a rich and creamy dahi [yogurt] filling and crunchy toppings and tempered with curry leaves and mustard seeds",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/1e4f2e7ad17901a04142d44b6651c4e8"
+  },
+  {
+    "id": "97",
+    "category": "tea",
+    "title": "Ginger Tea",
+    "mrp": 65,
+    "description": "A soothing and aromatic brew with a perfect balance of spiciness and warmth",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/3/18/441550d9-9f22-4276-9626-738aa9bc0c20_35063f71-1f8a-41b8-88ec-9e4e73bd7ae5.jpg"
+  },
+  {
+    "id": "98",
+    "category": "tea",
+    "title": "Elaichi Tea",
+    "mrp": 65,
+    "description": "A fragrant and refreshing blend of tea and cardamom, offering a calming and aromatic experience",
+    "photoUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/3/18/484c6d26-cc3b-4490-91c6-fb8c69f0b6f1_a27badc8-705b-40f7-bf0d-d744ac09d018.jpg"
   }
 ]

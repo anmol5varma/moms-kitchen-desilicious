@@ -3,7 +3,7 @@ import { useCart } from '../context/CartContext';
 import AddButton from './AddButton';
 import ShowVolume from './ShowVolume';
 
-const ProductCard = ({ id, photoUrl, title, mrp, category, volume }) => {
+const ProductCard = ({ id, photoUrl, title, mrp, category, volume, description }) => {
 
     const { cartItems, addToCart, removeFromCart } = useCart();
 
@@ -16,7 +16,8 @@ const ProductCard = ({ id, photoUrl, title, mrp, category, volume }) => {
             <img className="w-full h-20 object-cover" src={photoUrl} alt={title} />
             <div className="p-2">
                 <div className="font-bold">{title}</div>
-                <ShowVolume volume={volume} />
+                {volume && <ShowVolume volume={volume} />}
+                {description && <p>{description}</p>}
                 <div className='flex justify-between'>
                     <p className="text-gray-700 text-base"><span className="text-gray-900 font-bold">₹{mrp}</span></p>
                     <AddButton onAdd={handleAddToCart} onDelete={handleRemoveFromCart} cart={itemInCart} />
@@ -31,7 +32,8 @@ ProductCard.propTypes = {
     title: PropTypes.string.isRequired,
     mrp: PropTypes.number.isRequired,
     category: PropTypes.string.isRequired,
-    volume: PropTypes.string.isRequired,
+    volume: PropTypes.string,
+    description: PropTypes.string,
 };
 
 export default ProductCard;

@@ -1,0 +1,18 @@
+let final = []
+let gid = 1
+Array.from(document.querySelectorAll('div[id^="cid"]')).forEach(e => {
+    const id = e.id.split('-')[1];
+    const allItems = Array.from(e.querySelectorAll('[data-testid="normal-dish-item"]')).map(item => {
+        const [vegNonVeg, name, details] = item.innerText.split('.')
+        const price = details.split('Costs: ')[1].split(' ')[0];
+        return {
+            id: gid++,
+            category: id.toLowerCase(),
+            title: name.trim(),
+            mrp: parseFloat(price),
+            description: details.split('Description: ')[1],
+            photoUrl: ''
+        };
+    })
+    final = final.concat(allItems);
+})
